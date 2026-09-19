@@ -17,17 +17,33 @@ USAJOBS job 858700600 requires:
 Official announcement:
 https://www.usajobs.gov/job/858700600
 
+## Locked zero-cost source stack
+
+- **English canonical text:** 1925 Charles Scribner's Sons first-edition scan on Wikisource/Wikimedia Commons.
+- **English searchable aid:** Project Gutenberg eBook 64317.
+- **Spanish primary comparison:** 2014 *El Gran Gatsby*, Editorial Digital / Imprenta Nacional de Costa Rica, ISBN 978-9977-58-410-2, official free PDF, CC BY-NC-ND 3.0 Costa Rica.
+- **Chinese primary comparison:** 2013 *了不起的盖茨比*, translated by 李继宏 (Li Jihong), Tianjin People's Publishing House, ISBN 9787201077635, available through no-cost Open Library borrowing.
+- **Chinese QA comparison:** 2013 *了不起的盖茨比*, translated by 周彦 (Zhou Yan), Lijiang Publishing House, ISBN 9787540766214, available through no-cost Open Library borrowing.
+
+See `sources/source_registry.md` for source details and access rules.
+
+## Research concept
+
+The English essay may use the three language versions together when useful to the literary argument, especially where a metaphor changes in literalness, connotation, imagery, ambiguity, register, or cultural resonance during translation.
+
+This is not permission to treat translation differences as errors automatically. Every claim must be grounded in the verified text.
+
 ## Source policy
 
 - Prefer legal, no-cost, directly accessible sources.
-- The 1925 Charles Scribner's Sons first edition is the canonical literary text for quotation verification and pagination.
-- A searchable public-domain transcription may be used as a retrieval aid, but quotations must be checked against the canonical page image before final use.
-- Modern Spanish or Chinese commercial translations are not copied into this repository.
-- If no verified free published translation is available, translations will be produced from the public-domain English original and tracked as our own translations.
-- No quotation, page reference, or translation is allowed into a final draft without a corresponding evidence record.
+- Use the 1925 first edition for final English quotation verification and printed pagination.
+- Use Project Gutenberg for retrieval, not page citation.
+- Do not copy complete modern Spanish or Chinese translations into this repository.
+- Store only bibliographic records, source locations, short excerpts needed for analysis, and our own notes.
+- No quotation, page reference, translator attribution, or translation claim is allowed into a final draft without a corresponding verified evidence record.
 
-See:
-- `sources/source_registry.md`
-- `methodology/translation_and_citation_protocol.md`
-- `evidence/metaphor_ledger.md`
-- `qa/source_verification_checklist.md`
+## Workflow
+
+Source verification -> metaphor candidate extraction -> evidence ledger -> trilingual comparison -> citation audit -> English essay drafting -> Spanish translation -> Mandarin/Simplified-Chinese translation -> semantic-alignment QA -> final application package.
+
+**No drafting begins until the source foundation and evidence method are frozen.**
