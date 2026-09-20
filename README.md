@@ -80,6 +80,7 @@ See:
 - `methodology/coherence_audit_protocol.md`
 - `methodology/essay_structure_and_psychology_lens.md`
 - `methodology/spanish_translation_style_guide.md`
+- `methodology/mandarin_beijing_translation_style_guide.md`
 
 ## Locked analytical architecture
 
@@ -98,3 +99,6 @@ English source verification -> metaphor candidate extraction -> evidence ledger 
 **English freeze status:** PASS. The canonical English essay is `essay/english/final_english.md`, with final format verification recorded in `qa/final_english_format_audit.md`.
 
 **Spanish freeze status:** PASS. The canonical Spanish translation is `essay/spanish/final_spanish.md`, with semantic and format verification recorded in `qa/spanish_translation_v0_2_audit.md` and `qa/final_spanish_format_audit.md`.
+
+
+**Mandarin quality target:** Simplified Chinese in educated Beijing / Mainland Standard Mandarin written style, with national readability. The Chinese version will use standard PRC punctuation, conventional Mainland literary terminology, paragraph-level semantic back-checking, and a full vertical-coherence audit before freeze.
