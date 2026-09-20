@@ -70,6 +70,48 @@ This registry records the sources authorized for the project.
 - Relevant recommendation: readable sans-serif fonts including Arial; resume-specific recommendation of 10-point body text and 0.5-inch margins.
 - Project rule: retain Arial as a federal-document-friendly typeface, but do **not** import the resume-specific 10-point / 0.5-inch layout into the MLA essay because MLA provides its own research-paper format.
 
+## APPROVED — Secondary psychological / interpretive lenses
+
+These sources do **not** replace Fitzgerald as the literary authority. They may be used selectively to explain psychological ideas raised by the metaphors. They must never be used to diagnose fictional characters or to claim Fitzgerald consciously intended a particular psychoanalytic theory unless independent historical evidence supports that claim.
+
+### SRC-PSY-FREUD-001 — *Beyond the Pleasure Principle*
+- Author: Sigmund Freud
+- Translator: C. J. M. Hubback
+- Original English publication used: London, International Psycho-Analytical Press, 1922
+- Project Gutenberg eBook No.: 76031
+- URL: https://www.gutenberg.org/ebooks/76031
+- Cost: Free
+- Rights status: Public domain in the United States
+- Role: Historical psychoanalytic lens for repetition, fixation, pleasure/reality tensions, and the attempt to return to earlier states.
+- Use rule: treat Freud as a historically influential interpretive framework, not current settled psychological fact.
+
+### SRC-PSY-FREUD-002 — *Civilization and Its Discontents*
+- Author: Sigmund Freud
+- Translator: Joan Riviere
+- Original English publication used: New York, Jonathan Cape & Harrison Smith, 1930
+- Project Gutenberg eBook No.: 78221
+- URL: https://www.gutenberg.org/ebooks/78221
+- Cost: Free
+- Rights status: Public domain in the United States
+- Role: Historical psychoanalytic lens for desire, love, ego/object boundaries, social constraint, and the pursuit of power, success, and riches.
+- Use rule: use for interpretive comparison only; do not convert literary analysis into clinical diagnosis.
+
+### SRC-PSY-MEN-001 — *Addressing the Specific Behavioral Health Needs of Men*
+- Institutional author: Center for Substance Abuse Treatment (US), Substance Abuse and Mental Health Services Administration
+- Series: Treatment Improvement Protocol (TIP) Series, No. 56
+- Publication: Rockville, MD, SAMHSA, 2013
+- NCBI Bookshelf: https://www.ncbi.nlm.nih.gov/books/NBK144295/
+- GovInfo PDF: https://www.govinfo.gov/content/pkg/GOVPUB-HE20_400-PURL-gpo36875/pdf/GOVPUB-HE20_400-PURL-gpo36875.pdf
+- Cost: Free
+- Rights status: Public domain except material separately identified as copyrighted
+- Role: Modern U.S. government framework for masculinity ideologies, male role socialization, emotional restraint, social expectations, and variation among men.
+- Scope rule: use broad conceptual material, especially Chapter 1, rather than substance-use-specific clinical claims unless directly relevant.
+- Strength: provides a modern male-psychology / behavioral-health counterweight to Freud without requiring a commercial book.
+
+### Source-selection note
+- *The Interpretation of Dreams* is not a default psychological source for this paper. Gatsby's "dreams" are usually aspirations, fantasies, and imagined futures rather than literal sleep dreams. Using dream-analysis theory merely because Fitzgerald uses the word "dream" risks a category error.
+- Additional Freud works may be added only if a verified metaphor requires a concept not adequately covered by the approved sources.
+
 ## NOT USED AS LITERARY SOURCES
 
 Previously investigated Spanish and Chinese published editions are not part of the final literary-source architecture.
