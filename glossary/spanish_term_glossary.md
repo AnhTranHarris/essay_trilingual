@@ -23,7 +23,7 @@ Target variety: formal, educated Mexico City / standard Mexican Spanish with int
 | desire | deseo | |
 | moral judgment | juicio moral | |
 | social decay | decadencia social | |
-| repetition compulsion | compulsión de repetición | Historical Freudian term. |
+| repetition compulsion | compulsión a la repetición | Preferred standard psychoanalytic term in Spanish. |
 | source-of-truth / canonical analytical version | versión analítica canónica | Avoid technological calque in the essay. |
 | hard rock | roca firme | Preserve foundation metaphor. |
 | wet marshes | terreno pantanoso | Preserve instability without awkward literal Spanish. |
