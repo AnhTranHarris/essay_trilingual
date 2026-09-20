@@ -4,7 +4,7 @@ Repository purpose: maintain a verifiable, citation-first source and QA record f
 
 ## Current phase
 
-**English and Mexico City-quality Spanish versions are frozen. Mandarin/Simplified-Chinese translation phase is next.**
+**English, Mexico City-quality Spanish, and Beijing/Mainland-quality Mandarin/Simplified-Chinese versions are frozen.**
 
 The repository is being used as an evidence ledger and version-control system to reduce hallucination risk. Literary quotations, citations, analytical claims, and translated paragraphs must be traceable to verified records before they can enter a final document.
 
@@ -101,4 +101,4 @@ English source verification -> metaphor candidate extraction -> evidence ledger 
 **Spanish freeze status:** PASS. The canonical Spanish translation is `essay/spanish/final_spanish.md`, with semantic and format verification recorded in `qa/spanish_translation_v0_2_audit.md` and `qa/final_spanish_format_audit.md`.
 
 
-**Mandarin quality target:** Simplified Chinese in educated Beijing / Mainland Standard Mandarin written style, with national readability. The Chinese version will use standard PRC punctuation, conventional Mainland literary terminology, paragraph-level semantic back-checking, and a full vertical-coherence audit before freeze.
+**Mandarin freeze status:** PASS. The canonical Mandarin/Simplified-Chinese translation is `essay/mandarin/final_mandarin.md`, with semantic and language verification recorded in `qa/mandarin_translation_v0_3_audit.md` and final render verification recorded in `qa/final_mandarin_format_audit.md`.
