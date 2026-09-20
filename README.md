@@ -77,9 +77,10 @@ See:
 - `methodology/writing_style_protocol.md`
 - `methodology/translation_and_citation_protocol.md`
 - `methodology/authorship_and_provenance.md`
+- `methodology/coherence_audit_protocol.md`
 
 ## Workflow
 
-English source verification -> metaphor candidate extraction -> evidence ledger -> citation audit -> English essay drafting -> English draft freeze -> Spanish translation -> Mandarin/Simplified-Chinese translation -> paragraph-level semantic QA -> final MLA and citation audit -> final application package.
+English source verification -> metaphor candidate extraction -> evidence ledger -> claim ledger -> English essay drafting -> horizontal coherence audit -> vertical coherence audit -> citation audit -> English draft freeze -> Spanish translation -> Mandarin/Simplified-Chinese translation -> paragraph-level semantic QA -> translated vertical coherence audit -> final MLA and citation audit -> final application package.
 
 **No drafting begins until the source foundation and evidence method are frozen.**
