@@ -4,7 +4,7 @@ Repository purpose: maintain a verifiable, citation-first source and QA record f
 
 ## Current phase
 
-**Foundation only. No essay drafting has begun.**
+**English analysis frozen. Spanish and Mandarin/Simplified-Chinese translation phase is next.**
 
 The repository is being used as an evidence ledger and version-control system to reduce hallucination risk. Literary quotations, citations, analytical claims, and translated paragraphs must be traceable to verified records before they can enter a final document.
 
@@ -94,4 +94,4 @@ Psychological sources are secondary interpretive lenses only. Approved supportin
 
 English source verification -> metaphor candidate extraction -> evidence ledger -> claim ledger -> English essay drafting -> horizontal coherence audit -> vertical coherence audit -> citation audit -> English draft freeze -> Spanish translation -> Mandarin/Simplified-Chinese translation -> paragraph-level semantic QA -> translated vertical coherence audit -> final MLA and citation audit -> final application package.
 
-**No drafting begins until the source foundation and evidence method are frozen.**
+**English freeze status:** PASS. The canonical English essay is `essay/english/final_english.md`, with final format verification recorded in `qa/final_english_format_audit.md`.
