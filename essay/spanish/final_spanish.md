@@ -8,7 +8,13 @@ Análisis complementario para USAJOBS - Puesto 858700600
 
 20 de septiembre de 2026
 
-*Nota de proceso: Este trabajo es un análisis colaborativo entre una persona y una IA. Se utiliza el control de versiones de GitHub para mantener la verificación de citas, el seguimiento de fuentes, la coherencia argumentativa y el control de calidad de las traducciones al español y al mandarín.*
+## Metodología y validación con asistencia de inteligencia artificial
+
+Este análisis complementario se elaboró mediante un flujo de trabajo de inteligencia artificial (IA) con supervisión humana (human-in-the-loop). Anh T Tran (Harris) definió los objetivos del proyecto, las restricciones de fuentes, los criterios de aceptación del análisis, las normas de traducción y las aprobaciones finales. ChatGPT brindó apoyo en la investigación fundamentada en fuentes, la redacción, la transformación multilingüe y el control de calidad iterativo. El control de versiones de GitHub se utilizó para registrar evidencia verificada, dependencias entre afirmaciones, controles terminológicos, revisiones de desviación semántica, pruebas de coherencia horizontal y vertical y estados finales de publicación. El flujo de trabajo se diseñó para reducir el riesgo de alucinaciones y preservar la coherencia de fuentes, citas, argumentos y relaciones metafóricas entre las versiones en inglés, español y mandarín.
+
+**Evidencia del flujo de trabajo:** fuente canónica en inglés -> verificación de evidencia -> mapa de afirmaciones -> redacción iterativa -> pruebas de coherencia horizontal/vertical -> traducción al español/mandarín -> control semántico -> versiones congeladas.
+
+**Repositorio del proyecto:** https://github.com/AnhTranHarris/essay_trilingual
 
 *Nota de traducción: Salvo indicación contraria, las citas de Fitzgerald y Freud que aparecen en español son traducciones de los autores a partir de las ediciones en inglés citadas. Los números de página remiten a esas ediciones en inglés.*
 
