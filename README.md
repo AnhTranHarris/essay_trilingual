@@ -79,6 +79,7 @@ See:
 - `methodology/authorship_and_provenance.md`
 - `methodology/coherence_audit_protocol.md`
 - `methodology/essay_structure_and_psychology_lens.md`
+- `methodology/spanish_translation_style_guide.md`
 
 ## Locked analytical architecture
 
@@ -95,3 +96,5 @@ Psychological sources are secondary interpretive lenses only. Approved supportin
 English source verification -> metaphor candidate extraction -> evidence ledger -> claim ledger -> English essay drafting -> horizontal coherence audit -> vertical coherence audit -> citation audit -> English draft freeze -> Spanish translation -> Mandarin/Simplified-Chinese translation -> paragraph-level semantic QA -> translated vertical coherence audit -> final MLA and citation audit -> final application package.
 
 **English freeze status:** PASS. The canonical English essay is `essay/english/final_english.md`, with final format verification recorded in `qa/final_english_format_audit.md`.
+
+**Spanish quality target:** formal, educated Mexico City / standard Mexican Spanish with international Latin American readability. The Spanish version must pass native-flow, semantic back-translation, citation, horizontal-coherence, and vertical-coherence QA before it is frozen.
