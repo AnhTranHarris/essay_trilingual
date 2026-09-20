@@ -89,7 +89,7 @@ The objective is not literal word substitution.
 
 Spanish must read as formal, educated **Mexico City / standard Mexican Spanish with international Latin American readability**. It should avoid both Spain-specific forms and strongly regional Mexican slang. See `methodology/spanish_translation_style_guide.md`.
 
-Mandarin should read as natural modern written Mandarin in Simplified Chinese unless the application provides a different script requirement.
+Mandarin must read as educated **Beijing / Mainland Standard Mandarin written Chinese in Simplified Chinese**, with national readability and no Beijing-dialect slang or heavy regional coloring. Follow the dedicated style guide in `methodology/mandarin_beijing_translation_style_guide.md`.
 
 Target-language syntax may differ substantially from English if the analytical meaning remains stable.
 
@@ -125,4 +125,4 @@ GitHub is not a literary source and is not an author. It documents how the two a
 
 The English essay is frozen for translation. Spanish translation quality is locked to the Mexico City international standard defined in `methodology/spanish_translation_style_guide.md`.
 
-Spanish may proceed only under paragraph-level semantic QA, back-translation review, and full-document vertical coherence review.
+Spanish is frozen. Mandarin/Simplified-Chinese translation may proceed only under the Beijing/Mainland native-flow standard, paragraph-level semantic QA, back-translation review, literary-device verification, and full-document vertical coherence review.
