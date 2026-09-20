@@ -1,27 +1,31 @@
 # Source Verification Checklist
 
-Before any quotation or source-dependent claim is approved:
+Before any quotation or source-dependent literary claim is approved:
 
 - [ ] Candidate passage found in the searchable English text.
-- [ ] Exact English wording checked against the 1925 Scribner first-edition page image.
+- [ ] Exact wording checked against the 1925 Scribner first-edition page image.
 - [ ] Chapter confirmed.
 - [ ] Printed English page number confirmed.
 - [ ] Literary-device classification checked; metaphor is not being confused with simile, symbol, motif, imagery, or personification without explanation.
 - [ ] Analytical claim is supported by the quoted passage.
 - [ ] No quotation has been reconstructed from model memory.
-- [ ] Spanish comparison comes from SRC-ES-001 or another explicitly approved source.
-- [ ] Spanish page/location is recorded.
-- [ ] Chinese comparison comes from SRC-ZH-001 or another explicitly approved source.
-- [ ] Chinese page/location is recorded.
-- [ ] Difficult Chinese renderings are checked against SRC-ZH-002 when useful.
-- [ ] Translation differences are described precisely rather than automatically labeled errors.
-- [ ] Short copyrighted excerpts only; no complete modern translation is stored in the repository.
-- [ ] Translator attribution is verified before use.
-- [ ] Spanish translation of the eventual essay preserves the English analytical proposition.
-- [ ] Chinese translation of the eventual essay preserves the English analytical proposition.
-- [ ] Any project-translated Fitzgerald quotation is identified as our own translation where the citation style requires it.
-- [ ] Works Cited entry matches the source actually used.
+- [ ] Works Cited entry matches the English source actually used.
+- [ ] Evidence ID is assigned before the passage enters any draft.
+
+Before any translated essay paragraph is approved:
+
+- [ ] Spanish paragraph maps to one frozen English paragraph ID.
+- [ ] Mandarin/Simplified-Chinese paragraph maps to one frozen English paragraph ID.
+- [ ] Thesis and paragraph-level proposition are preserved.
+- [ ] Degree of certainty is preserved.
+- [ ] Metaphorical relationship is preserved.
+- [ ] Citation logic is preserved.
+- [ ] Project-translated Fitzgerald quotations map to a verified English evidence ID.
+- [ ] Terminology is consistent with the project glossary.
+- [ ] Back-translation or independent semantic review has been completed.
+- [ ] Material semantic drift has been corrected.
+- [ ] GitHub verification state is updated.
 
 ## Draft gate
 
-Essay drafting does not begin until the initial source registry, source-access checks, and evidence method are accepted.
+Essay drafting does not begin until the source registry, MLA/style protocol, authorship/provenance protocol, and initial metaphor evidence method are accepted.
