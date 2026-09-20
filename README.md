@@ -102,3 +102,5 @@ English source verification -> metaphor candidate extraction -> evidence ledger 
 
 
 **Mandarin freeze status:** PASS. The canonical Mandarin/Simplified-Chinese translation is `essay/mandarin/final_mandarin.md`, with semantic and language verification recorded in `qa/mandarin_translation_v0_3_audit.md` and final render verification recorded in `qa/final_mandarin_format_audit.md`.
+
+**AI methodology visibility polish:** PASS. All three final versions now include a concise human-in-the-loop AI methodology/validation statement, workflow trace, and repository link. Verification is recorded in `qa/ai_methodology_visibility_polish_audit.md`.
