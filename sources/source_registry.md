@@ -40,7 +40,7 @@ This registry records the sources authorized for the project.
   - Recommended length: 10 pages.
   - Translate the essay into Spanish and Mandarin.
 
-## APPROVED — Citation / translation-method guidance
+## APPROVED — Citation / translation / formatting guidance
 
 ### SRC-MLA-001 — MLA: identifying your own translation
 - URL: https://style.mla.org/when-to-use-my-trans/
@@ -54,6 +54,22 @@ This registry records the sources authorized for the project.
 - URL: https://style.mla.org/translation-in-several-languages/
 - Role: Guidance for distinguishing and citing multiple translated versions when applicable.
 
+### SRC-MLA-004 — MLA: formatting a research paper
+- URL: https://style.mla.org/formatting-papers/
+- Supporting official formatting guide: https://style.mla.org/app/uploads/sites/3/2020/12/Formatting-a-Research-Paper_v3_-The-MLA-Style-Center.pdf
+- Role: Research-paper setup, margins, readable standard-size type, double spacing, title-page guidance, page numbering, and placement of Work(s) Cited.
+- Project interpretation:
+  - use 1-inch margins;
+  - use Arial 12-point;
+  - use a title page because the project has two disclosed authors;
+  - target 10 analytical pages excluding title page and Work(s) Cited.
+
+### SRC-USJ-001 — USAJOBS federal resume formatting guidance
+- URL: https://help.usajobs.gov/faq/application/documents/resume/what-to-include
+- Role: Secondary visual-style reference only, not essay-format authority.
+- Relevant recommendation: readable sans-serif fonts including Arial; resume-specific recommendation of 10-point body text and 0.5-inch margins.
+- Project rule: retain Arial as a federal-document-friendly typeface, but do **not** import the resume-specific 10-point / 0.5-inch layout into the MLA essay because MLA provides its own research-paper format.
+
 ## NOT USED AS LITERARY SOURCES
 
 Previously investigated Spanish and Chinese published editions are not part of the final literary-source architecture.
@@ -64,7 +80,7 @@ Reason:
 - eliminating translated-novel dependencies reduces access risk and simplifies provenance;
 - the Spanish and Mandarin versions will be controlled translations of the verified English essay.
 
-No Spanish or Chinese novel is required for the final argument, evidence base, or Works Cited unless the project scope is explicitly changed later.
+No Spanish or Chinese novel is required for the final argument, evidence base, or Work(s) Cited unless the project scope is explicitly changed later.
 
 ## Current source decision
 
