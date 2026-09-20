@@ -87,7 +87,7 @@ Syntax may change. Meaning may not.
 
 The objective is not literal word substitution.
 
-Spanish should read as natural formal Spanish.
+Spanish must read as formal, educated **Mexico City / standard Mexican Spanish with international Latin American readability**. It should avoid both Spain-specific forms and strongly regional Mexican slang. See `methodology/spanish_translation_style_guide.md`.
 
 Mandarin should read as natural modern written Mandarin in Simplified Chinese unless the application provides a different script requirement.
 
@@ -123,6 +123,6 @@ GitHub is not a literary source and is not an author. It documents how the two a
 
 ## Current state
 
-English-only literary source architecture is established.
+The English essay is frozen for translation. Spanish translation quality is locked to the Mexico City international standard defined in `methodology/spanish_translation_style_guide.md`.
 
-**No essay drafting is authorized yet.**
+Spanish may proceed only under paragraph-level semantic QA, back-translation review, and full-document vertical coherence review.
