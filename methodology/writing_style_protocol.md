@@ -16,8 +16,8 @@ Default MLA presentation:
 - First-line paragraph indentation of 0.5 inch.
 - MLA-style parenthetical in-text citations.
 - A Works Cited section that matches the sources actually used.
-- Block quotations and translated-source citations handled according to MLA guidance.
-- Page/location citations must come from the exact edition actually cited.
+- Block quotations and project-translated quotations handled according to MLA guidance.
+- Page citations must come from the exact English edition actually cited.
 
 Official MLA guidance is recorded in the project source registry and should be consulted during final formatting.
 
@@ -52,7 +52,7 @@ Prefer:
 - quotations integrated into the prose;
 - specific nouns and verbs;
 - restrained rhetorical flourish;
-- explanations of technical translation concepts in ordinary language.
+- explanations of translation concepts in ordinary language.
 
 Avoid:
 - inflated vocabulary used only to sound academic;
@@ -70,13 +70,14 @@ Avoid:
 The paper should make sophisticated AI use **legible through method and execution**, not through robotic prose or artificial gimmicks.
 
 Desirable AI-visible fingerprints:
-- rigorously verified quotations and citations;
+- rigorously verified Fitzgerald quotations and citations;
 - a controlled evidence ledger behind each literary claim;
-- systematic comparison of English, Spanish, and Mandarin/Simplified-Chinese metaphor renderings;
-- terminology consistency across languages;
-- explicit attention to semantic drift, ambiguity, register, imagery, and connotation;
+- stable paragraph IDs across all three language versions;
+- terminology consistency across translations;
+- explicit control of semantic drift, ambiguity, register, imagery, and connotation;
 - repeatable paragraph-to-paragraph translation alignment;
-- unusually strong cross-language quality assurance;
+- independent back-translation or semantic QA;
+- GitHub version history showing evidence checks, corrections, and translation verification;
 - evidence that complex material was decomposed, checked, and recombined coherently.
 
 Undesirable AI fingerprints:
@@ -87,17 +88,16 @@ Undesirable AI fingerprints:
 - unexplained technical jargon;
 - repetitive conclusions;
 - writing that sounds more advanced than the underlying analysis;
-- conspicuous attempts to announce or advertise AI use inside the literary argument.
+- conspicuous attempts to advertise AI use inside the literary argument.
 
-The goal is for a knowledgeable reader to think: **this applicant knows how to use AI as a disciplined research, translation, and verification system**, while the essay itself remains pleasant and recognizably human-readable.
+The desired impression is that the applicant knows how to use AI as a disciplined research, translation, and verification system while preserving pleasant, recognizably human-readable prose.
 
 ## Analytical voice
 
 Use a confident but measured literary-analysis voice.
 
 The writer may make interpretive claims, but should distinguish:
-- what Fitzgerald's text directly says;
-- what the published translations do;
+- what Fitzgerald's English text directly says;
 - what can reasonably be inferred;
 - where an interpretation remains debatable.
 
@@ -130,10 +130,23 @@ Spanish and Mandarin/Simplified-Chinese versions must preserve:
 
 The translations may adjust syntax, idiom, and sentence rhythm to read naturally in the target language. They should not imitate English grammar mechanically.
 
+## GitHub QA visibility
+
+GitHub is part of the disclosed production method.
+
+The repository should make it possible to trace:
+- evidence -> English paragraph;
+- English paragraph -> Spanish paragraph;
+- English paragraph -> Mandarin paragraph;
+- translation QA finding -> correction;
+- final paragraph -> verified state.
+
+This provenance is intended to make quality control visible without cluttering the literary essay itself.
+
 ## Drafting gate
 
 No essay drafting begins until:
 1. source architecture is accepted;
 2. MLA/style protocol is accepted;
-3. the initial metaphor evidence set is verified.
-
+3. authorship/provenance protocol is accepted;
+4. the initial metaphor evidence set is verified.
