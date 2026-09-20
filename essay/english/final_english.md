@@ -8,7 +8,13 @@ USAJOBS Supplemental Analysis - Job 858700600
 
 20 September 2026
 
-*Process note: This paper is a human-AI collaborative analysis. GitHub version control is used to maintain quotation verification, citation tracking, argument consistency, and Spanish/Mandarin translation quality assurance.*
+## AI-Assisted Methodology and Validation
+
+This supplemental analysis was produced through a human-in-the-loop artificial intelligence (AI) workflow. Anh T Tran (Harris) defined the project objectives, source constraints, analytical acceptance criteria, translation standards, and final approvals. ChatGPT assisted with source-grounded research, drafting, multilingual transformation, and iterative quality assurance. GitHub version control was used to track verified evidence, claim dependencies, terminology controls, semantic-drift checks, horizontal and vertical coherence testing, and final release states. The workflow was designed to reduce hallucination risk and preserve source, citation, argument, and metaphor consistency across English, Spanish, and Mandarin outputs.
+
+**Workflow evidence:** canonical English source -> evidence verification -> claim mapping -> iterative drafting -> horizontal/vertical consistency testing -> Spanish/Mandarin translation -> semantic QA -> frozen releases.
+
+**Project repository:** https://github.com/AnhTranHarris/essay_trilingual
 
 ## Introduction
 
