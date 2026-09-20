@@ -78,6 +78,17 @@ See:
 - `methodology/translation_and_citation_protocol.md`
 - `methodology/authorship_and_provenance.md`
 - `methodology/coherence_audit_protocol.md`
+- `methodology/essay_structure_and_psychology_lens.md`
+
+## Locked analytical architecture
+
+The English analysis will contain:
+- one introduction stating the mission: analysis of metaphors in the English-language *The Great Gatsby*, with the finished essay translated into Spanish and Mandarin/Simplified Chinese for readability and the application requirement;
+- seven body sections built around seven verified metaphorical constructions;
+- one conclusion;
+- a separate MLA Work(s) Cited page.
+
+Psychological sources are secondary interpretive lenses only. Approved supporting sources include public-domain Freud works and the public-domain 2013 SAMHSA volume *Addressing the Specific Behavioral Health Needs of Men*. Fitzgerald remains the literary authority.
 
 ## Workflow
 
