@@ -42,6 +42,12 @@ This is not permission to treat translation differences as errors automatically.
 - Store only bibliographic records, source locations, short excerpts needed for analysis, and our own notes.
 - No quotation, page reference, translator attribution, or translation claim is allowed into a final draft without a corresponding verified evidence record.
 
+## Writing standard
+
+The final package will use MLA 9th edition conventions. The target prose level is AP High School English analytical clarity, with selective college-freshman creative-writing sophistication where it helps explain complex literary or translation ideas. AI sophistication should be visible through rigorous evidence control, trilingual comparison, semantic QA, and consistency—not through robotic or inflated prose.
+
+See `methodology/writing_style_protocol.md`.
+
 ## Workflow
 
 Source verification -> metaphor candidate extraction -> evidence ledger -> trilingual comparison -> citation audit -> English essay drafting -> Spanish translation -> Mandarin/Simplified-Chinese translation -> semantic-alignment QA -> final application package.
