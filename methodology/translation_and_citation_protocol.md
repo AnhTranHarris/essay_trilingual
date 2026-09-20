@@ -4,29 +4,21 @@
 
 This file defines process only. It contains no essay prose.
 
-## Canonical English text
+## Canonical literary text
 
-The 1925 Charles Scribner's Sons first edition is the canonical English text for literary quotations and printed-page references.
+The 1925 Charles Scribner's Sons first edition of *The Great Gatsby* is the **sole literary source** for the analytical paper.
 
 Use the searchable Project Gutenberg transcription to locate candidate passages. Then verify every quoted phrase against the 1925 first-edition page image before it is accepted into the evidence ledger.
 
-## Three-language source architecture
-
-The project may analyze selected metaphor passages across three published-language witnesses:
-
-- English: 1925 Fitzgerald text.
-- Spanish: 2014 Editorial Digital / Imprenta Nacional de Costa Rica edition.
-- Simplified Chinese: 2013 Li Jihong translation, with the 2013 Zhou Yan translation available as a secondary QA comparison.
-
-A translation comparison may be discussed inside the English essay when it directly advances the metaphor analysis. Translation difference alone is not evidence of an error; the analysis must explain what semantic, figurative, tonal, cultural, or rhetorical feature changes and why that matters to the metaphor.
+Spanish and Chinese editions of the novel are not required authorities for this project.
 
 ## Essay architecture
 
-The English essay will be the canonical analytical version.
+The English essay is the canonical analytical document.
 
-The Spanish and Mandarin versions will be faithful translations of that same analytical argument. They are not separate essays and must not introduce new substantive conclusions that are absent from the English version.
+The Spanish and Mandarin/Simplified-Chinese versions are faithful translations of that same essay. They are not separate research papers and must not introduce new substantive claims, new Fitzgerald evidence, or new interpretations that are absent from the English version.
 
-Each later paragraph should receive a stable paragraph identifier:
+Each paragraph receives a stable identifier:
 
 - EN-P001, EN-P002, ...
 - ES-P001, ES-P002, ...
@@ -34,62 +26,103 @@ Each later paragraph should receive a stable paragraph identifier:
 
 ES-P001 and ZH-P001 must correspond semantically to EN-P001.
 
-## Fitzgerald quotations
+## English-draft freeze
+
+Translation begins only after the English essay passes:
+- quotation verification;
+- page-citation verification;
+- literary-device verification;
+- argument consistency review;
+- MLA citation review.
+
+The approved English version receives a frozen version identifier in GitHub. Spanish and Mandarin translations must reference that frozen English version.
+
+If the English essay changes materially after translation begins, the affected translated paragraphs must be re-opened and re-verified.
+
+## Fitzgerald quotations in translation
 
 Every quoted Fitzgerald passage must have:
-- evidence ID
-- chapter
-- verified 1925 page number
-- exact English transcription
-- source edition
-- verification status
-- Spanish published rendering, when legitimately available and relevant
-- Chinese published rendering, when legitimately available and relevant
-- translation notes describing literal, idiomatic, tonal, metaphorical, or cultural differences
-- final citation decision
+- evidence ID;
+- chapter;
+- verified 1925 page number;
+- exact English transcription;
+- MLA citation decision;
+- Spanish project-translation status;
+- Mandarin/Simplified-Chinese project-translation status.
 
-Do not present a project-generated translation as if it came from a published translator.
+When the project translates Fitzgerald's own words, do not imply that the wording comes from a published Spanish or Chinese translator.
 
-## Translation comparison protocol
+Where MLA conventions require it, identify the rendering as the authors' or project translation.
 
-For a candidate metaphor:
+## Controlled translation protocol
 
-1. Verify the exact English passage against the 1925 page image.
-2. Locate the corresponding Spanish passage in SRC-ES-001.
-3. Locate the corresponding Chinese passage in SRC-ZH-001.
-4. If the Chinese rendering is ambiguous or unusually literal/idiomatic, compare SRC-ZH-002.
-5. Record only short excerpts necessary for analysis.
-6. Identify the semantic invariant: what must remain true across languages.
-7. Identify translation shifts: imagery, register, connotation, grammatical agency, cultural resonance, metaphor preservation/replacement, or loss.
-8. Do not call a translation "wrong" unless there is defensible evidence; prefer precise descriptions such as "more literal," "more idiomatic," "narrows the image," "adds connotation," or "reduces ambiguity."
-9. Only after this record is verified may the passage support essay prose.
+For every paragraph:
+
+1. Freeze and identify the English source paragraph.
+2. Record the paragraph's core proposition.
+3. Record any terms that must remain consistent.
+4. Record metaphorical or rhetorical features that must survive translation.
+5. Produce a natural Spanish or Mandarin/Simplified-Chinese rendering.
+6. Compare the translated paragraph against the English semantic invariant.
+7. Check terminology consistency against the project glossary.
+8. Check citations and quoted material.
+9. Run an independent back-translation or semantic-review pass.
+10. Revise any material drift.
+11. Mark the paragraph verified in GitHub only after all required checks pass.
+
+## Semantic invariants
+
+Before translating a difficult paragraph, record what may not change:
+- factual claim;
+- literary claim;
+- degree of certainty;
+- causal relationship;
+- metaphorical relationship;
+- emotional register;
+- citation relationship.
+
+Syntax may change. Meaning may not.
+
+## Translation-quality principle
+
+The objective is not literal word substitution.
+
+Spanish should read as natural formal Spanish.
+
+Mandarin should read as natural modern written Mandarin in Simplified Chinese unless the application provides a different script requirement.
+
+Target-language syntax may differ substantially from English if the analytical meaning remains stable.
 
 ## Anti-hallucination rule
 
-A literary quotation, page number, bibliographic claim, translator attribution, or translation-source claim cannot enter the final document unless its evidence record is VERIFIED.
+A literary quotation, page number, or bibliographic claim cannot enter the final document unless its English evidence record is VERIFIED.
+
+A translated paragraph cannot enter the final document unless it maps to an approved English paragraph and passes the translation QA protocol.
 
 Interpretive claims must distinguish:
-- direct textual evidence
-- translation observation
-- reasonable literary inference
-- outside critical scholarship
+- direct textual evidence;
+- reasonable literary inference;
+- outside critical scholarship, if any is later authorized.
 
-## Copyright / access rule
+## GitHub quality assurance
 
-Do not require purchase of a book, article, database, or translation.
+GitHub is the project's provenance and QA environment.
 
-The 1925 English novel is public domain in the United States.
+Use it to maintain:
+- immutable source references;
+- metaphor evidence records;
+- English draft version history;
+- paragraph IDs;
+- translation status;
+- terminology/glossary decisions;
+- semantic-drift findings;
+- correction history;
+- final verification states.
 
-Modern Spanish and Chinese translations may carry independent copyright. Do not upload complete copyrighted translations to this repository. Store only bibliographic records, location metadata, short excerpts needed for analysis, and original project notes.
-
-The Spanish SRC-ES-001 edition is distributed under CC BY-NC-ND 3.0 Costa Rica. Do not alter or republish the complete edition.
-
-## Mandarin script decision
-
-For the application, "Mandarin" will be implemented provisionally as modern written Mandarin in **Simplified Chinese**, because the primary Chinese source is a Simplified-Chinese mainland edition. This remains a production decision to verify before final submission.
+GitHub is not a literary source and is not an author. It documents how the two authors controlled quality.
 
 ## Current state
 
-Source architecture is established.
+English-only literary source architecture is established.
 
 **No essay drafting is authorized yet.**
