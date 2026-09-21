@@ -2,21 +2,19 @@
 
 **Anh T Tran (Harris)**
 
-**ChatGPT**
-
 Análisis complementario para USAJOBS - Puesto 858700600
 
 20 de septiembre de 2026
 
-## Metodología y validación con asistencia de inteligencia artificial
+## Metodología y validación asistidas por inteligencia artificial (AI)
 
-Este análisis complementario se elaboró mediante un flujo de trabajo de inteligencia artificial (IA) con supervisión humana (human-in-the-loop). Anh T Tran (Harris) definió los objetivos del proyecto, las restricciones de fuentes, los criterios de aceptación del análisis, las normas de traducción y las aprobaciones finales. ChatGPT brindó apoyo en la investigación fundamentada en fuentes, la redacción, la transformación multilingüe y el control de calidad iterativo. El control de versiones de GitHub se utilizó para registrar evidencia verificada, dependencias entre afirmaciones, controles terminológicos, revisiones de desviación semántica, pruebas de coherencia horizontal y vertical y estados finales de publicación. El flujo de trabajo se diseñó para reducir el riesgo de alucinaciones y preservar la coherencia de fuentes, citas, argumentos y relaciones metafóricas entre las versiones en inglés, español y mandarín.
+Este análisis complementario utilizó un flujo de trabajo de inteligencia artificial con supervisión humana (*human-in-the-loop*). Anh T Tran (Harris) definió los requisitos, las restricciones de fuentes, los criterios de aceptación analítica, los estándares de traducción y las aprobaciones finales. ChatGPT (GPT-5.6 Sol) asistió con investigación basada en fuentes, redacción, transformación multilingüe y control de calidad iterativo. GitHub registró evidencia verificada, dependencias entre afirmaciones, revisiones, terminología, comprobaciones de deriva semántica y pruebas de coherencia horizontal y vertical. El flujo se diseñó para reducir el riesgo de alucinaciones y preservar la fidelidad a las fuentes, la integridad de las citas y la consistencia argumentativa.
 
-**Evidencia del flujo de trabajo:** fuente canónica en inglés -> verificación de evidencia -> mapa de afirmaciones -> redacción iterativa -> pruebas de coherencia horizontal/vertical -> traducción al español/mandarín -> control semántico -> versiones congeladas.
+**Flujo:** requisitos -> verificación de fuentes -> mapeo de evidencia y afirmaciones -> redacción -> pruebas de coherencia -> traducción controlada -> retroverificación semántica -> versión final.
 
-**Repositorio del proyecto:** https://github.com/AnhTranHarris/essay_trilingual
+**Repositorio:** https://github.com/AnhTranHarris/essay_trilingual
 
-*Nota de traducción: Salvo indicación contraria, las citas de Fitzgerald y Freud que aparecen en español son traducciones de los autores a partir de las ediciones en inglés citadas. Los números de página remiten a esas ediciones en inglés.*
+*Nota de traducción: Salvo indicación contraria, las citas de Fitzgerald y Freud que aparecen en español son traducciones del proyecto, realizadas bajo la aprobación final de Anh T Tran (Harris) con asistencia de ChatGPT a partir de las ediciones en inglés citadas. Los números de página remiten a esas ediciones en inglés.*
 
 ## Introducción
 
@@ -24,7 +22,7 @@ Este trabajo tiene una misión directa: analizar las metáforas de la versión e
 
 A lo largo de la novela, Fitzgerald convierte una y otra vez presiones invisibles en algo material. La conducta se vuelve terreno; la corrupción se transforma en polvo dentro de una estela; un páramo se vuelve una granja que produce ceniza; la identidad de Gatsby surge de una concepción ideal; la voz de Daisy se convierte en dinero; el pasado parece quedar lo bastante cerca como para tocarlo; y los seres humanos se vuelven barcos que avanzan contra una corriente. Leídas de manera vertical, estas imágenes forman una secuencia y no siete adornos independientes. Las metáforas de Fitzgerald vuelven tangibles el juicio, la aspiración, la clase social, la identidad, el deseo, la memoria y el tiempo, y con ello revelan la paradoja central de Gatsby: su capacidad para imaginar una vida distinta es, al mismo tiempo, su mayor fortaleza y la fuente de su vulnerabilidad cuando el dinero, la estructura social, otras personas y el tiempo se niegan a obedecer el mundo que él ha imaginado.
 
-## 1. Roca firme y terreno pantanoso: la moral como fundamento
+## Roca firme y terreno pantanoso: la moral como fundamento
 
 Antes de explicar las fiestas de Gatsby, la voz de Daisy o la luz verde, Nick Carraway ofrece al lector una metáfora sobre el suelo. Después de describir su costumbre de reservarse el juicio, admite que su tolerancia tiene límites: “La conducta puede fundarse sobre roca firme o sobre terreno pantanoso” (Fitzgerald 2). Una cuestión moral abstracta se vuelve física. La conducta puede descansar sobre algo lo bastante sólido para soportar peso, o sobre un terreno que cede y se hunde bajo presión. Fitzgerald no propone un código moral completo; le da a Nick un vocabulario espacial para preguntarse si una forma de comportamiento tiene una base estable.
 
@@ -32,7 +30,7 @@ Nick complica de inmediato ese vocabulario. Se presenta como alguien educado par
 
 La imagen también prepara el resto de la novela. Gatsby construye una personalidad, una fortuna, una casa y un futuro imaginado; los Buchanan dependen de una seguridad heredada; y Nick, más adelante, construye una narración a partir de la memoria. Antes de mostrar qué desean estos personajes, Fitzgerald pregunta qué puede soportar su peso. Gatsby no puede reducirse a “roca firme” o “terreno pantanoso”. Sus métodos están moralmente comprometidos, aunque su capacidad de esperanza siga resultando poderosa, y las metáforas posteriores pondrán a prueba lo que ocurre cuando una vida inventada se encuentra con fundamentos que no puede controlar.
 
-## 2. Polvo inmundo en la estela: aspiración y contaminación
+## Polvo inmundo en la estela: aspiración y contaminación
 
 Apenas una página después, Fitzgerald pasa del suelo al movimiento. Nick sostiene que Gatsby, al final, resulta ser la excepción, y luego lo distingue de “aquel polvo inmundo que flotaba en la estela de sus sueños” (Fitzgerald 3). La palabra *estela* es importante. Una estela existe porque algo se mueve y deja una perturbación detrás. El sueño de Gatsby, por lo tanto, no es pasivo: crea dirección e impulsa la narración hacia delante, pero algo sucio y destructivo lo sigue.
 
@@ -40,7 +38,7 @@ La sintaxis impide una lectura simple en la que el sueño de Gatsby sea idéntic
 
 La imagen tampoco absuelve a Gatsby. Su búsqueda de Daisy exige dinero, secreto, actuación y manipulación de las apariencias. Fitzgerald deja abierto el origen exacto del polvo: una parte pertenece al mundo social corrupto que rodea a Gatsby, mientras que algunas de sus propias decisiones lo introducen más profundamente en ese mundo. La primera metáfora preguntaba qué sostiene la conducta; esta pregunta qué sigue al deseo una vez que empieza a moverse. La aspiración es poderosa, pero nunca avanza por un espacio vacío.
 
-## 3. La granja fantástica: el crecimiento convertido en desperdicio
+## La granja fantástica: el crecimiento convertido en desperdicio
 
 El Valle de Cenizas convierte el residuo en paisaje. Fitzgerald lo llama “una granja fantástica donde las cenizas crecen como trigo” (Fitzgerald 27). El pasaje contiene una metáfora extendida con un símil incrustado: el valle se convierte en granja, mientras que las cenizas crecen “como trigo”. Una granja suele sugerir fertilidad, cultivo, alimento y renovación. Fitzgerald invierte cada expectativa. La ceniza forma crestas, colinas, jardines, edificios, humo y figuras humanas; el lenguaje del crecimiento solo produce desperdicio.
 
@@ -48,7 +46,7 @@ La imagen también cambia la escala del ensayo. El valle se encuentra en la ruta
 
 La “granja fantástica” se convierte así en la contraparte material del “polvo inmundo” del primer capítulo. Lo que al principio aparecía como residuo detrás del sueño privado de Gatsby se amplía hasta convertirse en un entorno por el que pasan otros personajes. El argumento se ensancha: la aspiración no es únicamente una fuerza psicológica interna. Existe dentro de un paisaje social que distribuye de manera desigual la comodidad, la visibilidad y el desperdicio.
 
-## 4. El Gatsby platónico: la identidad como autoinvención
+## El Gatsby platónico: la identidad como autoinvención
 
 Cuando Nick explica la identidad anterior de Gatsby como James Gatz, Fitzgerald pasa del paisaje a la construcción de uno mismo. Gatsby “surgió de la concepción platónica que tenía de sí mismo”, y Nick intensifica la imagen al llamarlo “un hijo de Dios” (Fitzgerald 118). El pasaje combina metáfora con alusión filosófica y religiosa. Gatsby aparece menos como un hombre que cambió gradualmente y más como una figura creada a partir de una idea.
 
@@ -58,19 +56,19 @@ La autoinvención es, por ello, impresionante y peligrosa a la vez. Gatsby muest
 
 La metáfora también explica por qué Gatsby puede parecer artificial y sincero al mismo tiempo. Sus gestos, vocabulario, posesiones y rituales sociales están cuidadosamente construidos, pero la fe que los sostiene no es simplemente teatral. Gatsby cree en el yo que ha diseñado. Esa combinación hace más difícil descartarlo como un simple impostor: la actuación está fabricada, pero el compromiso con ella es genuino. Fitzgerald convierte así la autoinvención en un problema de identidad y no solamente de engaño, al preguntar si un yo creado puede volverse real mediante la creencia y la repetición.
 
-## 5. Una voz llena de dinero: el deseo escuchado como clase social
+## Una voz llena de dinero: el deseo escuchado como clase social
 
 La metáfora más compacta de la novela también puede ser una de las más reveladoras. Cuando Nick intenta describir la voz de Daisy, Gatsby ofrece la respuesta: “Su voz está llena de dinero” (Fitzgerald 144). Ninguna palabra de comparación suaviza la afirmación. Gatsby no dice que su voz suene *como* dinero; identifica una cosa con la otra. Nick comprende de inmediato la implicación: comodidad, seguridad heredada, abundancia y la confianza de alguien que nunca ha tenido que explicar por qué pertenece al lugar que ocupa.
 
-Para Gatsby, el romance y el privilegio de clase se han fusionado. Ama a Daisy, pero ella también encarna el mundo social al que su identidad inventada ha intentado ingresar. En *Civilization and Its Discontents*, Freud observa que las personas suelen medir la vida por “el poder, el éxito y las riquezas”, mientras subestiman otras formas de valor (Freud, *Civilization* 7). Esto no es un diagnóstico de Gatsby ni una prueba de la intención de Fitzgerald. Funciona como un marco histórico que pone nombre a un conflicto ya contenido en la metáfora: Gatsby escucha valor emocional y valor social en la misma voz.
+Para Gatsby, el romance y el privilegio de clase se han fusionado. Ama a Daisy, pero ella también encarna el mundo social al que su identidad inventada ha intentado ingresar. En *Civilization and Its Discontents*, Freud observa que las personas suelen medir la vida por “el poder, el éxito y las riquezas”, mientras subestiman otras formas de valor (7). Esto no es un diagnóstico de Gatsby ni una prueba de la intención de Fitzgerald. Funciona como un marco histórico que pone nombre a un conflicto ya contenido en la metáfora: Gatsby escucha valor emocional y valor social en la misma voz.
 
 La distinción también impide que el análisis reduzca a Daisy misma al dinero. La metáfora habla tanto de la manera en que Gatsby escucha como del carácter de Daisy. Él reconoce en su voz una seguridad de clase que no puede fabricarse tan fácilmente como una mansión, un automóvil o una camisa hecha a la medida. Su fortuna es reciente; el privilegio de Daisy suena espontáneo. Gatsby ha construido un yo que parece lo bastante rico para alcanzarla, pero la metáfora muestra que persigue tanto a una mujer como la legitimidad social que su voz representa.
 
-## 6. El pasado al alcance de la mano: la memoria hecha espacio
+## El pasado al alcance de la mano: la memoria hecha espacio
 
 El conflicto más profundo de Gatsby termina siendo con el tiempo. Cuando Nick le dice que el pasado no puede repetirse, Gatsby rechaza la afirmación y mira a su alrededor “como si el pasado acechara allí, en la sombra de su casa, apenas fuera del alcance de su mano” (Fitzgerald 133). Fitzgerald convierte el tiempo en espacio. El pasado no se limita a quedar detrás de Gatsby en sentido cronológico; aparece físicamente cercano, oculto pero alcanzable.
 
-Esa metáfora espacial explica por qué Gatsby se comporta como si un esfuerzo mayor pudiera resolver el problema. Si el pasado es un objeto situado apenas más allá de su mano, el dinero puede reconstruir el escenario, la casa puede reproducir la grandeza y a Daisy se le puede pedir que borre el significado emocional de los años transcurridos. *Beyond the Pleasure Principle*, de Freud, ofrece una comparación histórica limitada porque describe una “compulsión a la repetición” capaz de reactivar experiencias anteriores incluso cuando el simple placer no explica el retorno (Freud, *Beyond* 20-25). Gatsby no está siendo diagnosticado, y la novela de Fitzgerald no es un caso clínico. El valor de la comparación es más estrecho: ambos textos preguntan por qué una condición anterior puede ejercer tanta fuerza sobre la acción presente.
+Esa metáfora espacial explica por qué Gatsby se comporta como si un esfuerzo mayor pudiera resolver el problema. Si el pasado es un objeto situado apenas más allá de su mano, el dinero puede reconstruir el escenario, la casa puede reproducir la grandeza y a Daisy se le puede pedir que borre el significado emocional de los años transcurridos. *Beyond the Pleasure Principle*, de Freud, ofrece una comparación histórica limitada porque describe una “compulsión a la repetición” capaz de reactivar experiencias anteriores incluso cuando el simple placer no explica el retorno (20-25). Gatsby no está siendo diagnosticado, y la novela de Fitzgerald no es un caso clínico. El valor de la comparación es más estrecho: ambos textos preguntan por qué una condición anterior puede ejercer tanta fuerza sobre la acción presente.
 
 Gatsby no se limita a recordar a Daisy; intenta reconstruir las circunstancias en las que su yo anterior la amó. Nick afirma que Gatsby quiere recuperar “alguna idea de sí mismo” que quedó vinculada con Daisy y con aquel momento anterior (Fitzgerald 133). Esto conecta la metáfora temporal directamente con la “concepción platónica” de Gatsby. Recuperar a Daisy confirmaría que el Gatsby inventado ha triunfado de forma tan completa que incluso el tiempo puede cooperar.
 
@@ -78,7 +76,7 @@ Aquí la contradicción central se vuelve más clara. La identidad de Gatsby dep
 
 La imagen del pasado como algo casi tocable también ayuda a explicar por qué el fracaso no redirige de inmediato a Gatsby. La distancia física invita a un nuevo intento: un alcance más, un ajuste más, un esfuerzo adicional para cerrar la brecha. Al convertir el tiempo en espacio, Fitzgerald hace que la persistencia parezca razonable desde el interior de la imaginación de Gatsby, incluso cuando el lector puede ver que ningún movimiento puede eliminar los años transcurridos. La metáfora convierte así una exigencia temporal imposible en un problema de distancia engañosamente ordinario.
 
-## 7. Barcos contra la corriente: el sueño privado se convierte en tiempo humano
+## Barcos contra la corriente: el sueño privado se convierte en tiempo humano
 
 La metáfora final de la novela amplía la lucha privada de Gatsby. Nick concluye representando a las personas como barcos: “Así seguimos avanzando, barcos contra la corriente, arrastrados sin cesar hacia el pasado” (Fitzgerald 218). La frase contiene esfuerzo y derrota al mismo tiempo. Los barcos pueden dirigirse e impulsarse hacia delante, pero la corriente ejerce una fuerza propia. El final, por lo tanto, no afirma que el esfuerzo sea inútil; afirma que la intención de avanzar no puede borrar la influencia de lo que empuja hacia atrás.
 
@@ -102,10 +100,12 @@ El requisito de traducción vuelve especialmente importante esta precisión. Al 
 
 ## Obras citadas
 
-Center for Substance Abuse Treatment. *Addressing the Specific Behavioral Health Needs of Men*. Treatment Improvement Protocol Series 56, Substance Abuse and Mental Health Services Administration, 2013. *NCBI Bookshelf*, https://www.ncbi.nlm.nih.gov/books/NBK144295/. Accessed 20 Sept. 2026.
+Center for Substance Abuse Treatment. *Addressing the Specific Behavioral Health Needs of Men*. Treatment Improvement Protocol Series 56, Substance Abuse and Mental Health Services Administration, 2013. *NCBI Bookshelf*, https://www.ncbi.nlm.nih.gov/books/NBK144295/. Consultado el 20 sept. 2026.
 
-Fitzgerald, F. Scott. *The Great Gatsby*. Charles Scribner's Sons, 1925. *Wikisource*, https://en.wikisource.org/wiki/Index:The_Great_Gatsby_(1925).djvu. Accessed 20 Sept. 2026.
+Fitzgerald, F. Scott. *The Great Gatsby*. Charles Scribner's Sons, 1925. *Wikisource*, https://en.wikisource.org/wiki/Index:The_Great_Gatsby_(1925).djvu. Consultado el 20 sept. 2026.
 
-Freud, Sigmund. *Beyond the Pleasure Principle*. Translated by C. J. M. Hubback, International Psycho-Analytical Press, 1922. *Project Gutenberg*, eBook no. 76031, https://www.gutenberg.org/ebooks/76031. Accessed 20 Sept. 2026.
+Freud, Sigmund. *Beyond the Pleasure Principle*. Traducción de C. J. M. Hubback, International Psycho-Analytical Press, 1922. *Project Gutenberg*, libro electrónico núm. 76031, https://www.gutenberg.org/ebooks/76031. Consultado el 20 sept. 2026.
 
-Freud, Sigmund. *Civilization and Its Discontents*. Translated by Joan Riviere, Jonathan Cape and Harrison Smith, 1930. *Project Gutenberg*, eBook no. 78221, https://www.gutenberg.org/ebooks/78221. Accessed 20 Sept. 2026.
+---. *Civilization and Its Discontents*. Traducción de Joan Riviere, Jonathan Cape and Harrison Smith, 1930. *Project Gutenberg*, libro electrónico núm. 78221, https://www.gutenberg.org/ebooks/78221. Consultado el 20 sept. 2026.
+
+“Investigación basada en fuentes, redacción, traducción y control de calidad para un análisis trilingüe de metáforas en *The Great Gatsby*” indicación y conversación de seguimiento. *ChatGPT*, modelo GPT-5.6 Sol, OpenAI, 20 sept. 2026, https://chatgpt.com/.
