@@ -14,13 +14,13 @@ Target language standard:
 - no Beijing street slang or heavy regional coloring.
 
 Generated application documents:
-- `Gatsby_Analysis_MLA_Mandarin_Beijing_FINAL.docx`
-- `Gatsby_Analysis_MLA_Mandarin_Beijing_FINAL.pdf`
+- `Gatsby_Analysis_MLA_Mandarin_Beijing_AI_POLISHED.docx`
+- `Gatsby_Analysis_MLA_Mandarin_Beijing_AI_POLISHED.pdf`
 
 ## Rendered layout
 
 Final rendered length:
-- title page: 1 unnumbered page;
+- application-specific AI methodology front matter: 1 unnumbered page;
 - analytical Mandarin body: exactly 10 numbered pages;
 - 参考文献: separate final page;
 - total: 12 pages.
@@ -34,7 +34,7 @@ Formatting:
 - left-aligned analytical body;
 - hanging indents for references;
 - running head begins with `Tran 1` on the first analytical page;
-- title page remains unnumbered.
+- front-matter page remains unnumbered.
 
 ## Font / glyph verification
 
@@ -105,7 +105,7 @@ PASS.
 
 - Fitzgerald page numbers remain those of the verified 1925 English edition.
 - Freud page numbers remain those of the cited English editions.
-- The title page states that Chinese renderings of Fitzgerald and Freud quotations are translations by the authors from the cited English editions unless otherwise indicated.
+- The front matter states that Chinese renderings of Fitzgerald and Freud quotations are project translations approved by Anh T Tran (Harris) with ChatGPT assistance unless otherwise indicated.
 - No published Chinese translation of *The Great Gatsby* is implied or cited.
 - English Works Cited bibliographic identities remain unchanged.
 
