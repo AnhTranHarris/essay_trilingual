@@ -8,7 +8,7 @@ USAJOBS Supplemental Analysis - Job 858700600
 
 ## AI-Assisted Methodology and Validation
 
-This supplemental analysis was produced through a human-in-the-loop artificial intelligence workflow. Anh T Tran (Harris) established the project requirements, source constraints, analytical acceptance criteria, translation standards, and final approvals. ChatGPT (GPT-5.6 Sol) assisted with source-grounded research, drafting, multilingual transformation, and iterative quality assurance. GitHub version control tracked verified evidence, claim dependencies, revisions, terminology controls, semantic-drift checks, and horizontal and vertical coherence testing. The workflow was designed to reduce hallucination risk and preserve source fidelity, citation integrity, and argument consistency across English, Spanish, and Mandarin outputs.
+This supplemental analysis was produced through a human-in-the-loop artificial intelligence workflow. Anh T Tran (Harris) established the project requirements, source constraints, analytical acceptance criteria, translation standards, and final approvals. ChatGPT (GPT-5.6 Sol) assisted with source-grounded research, drafting, multilingual transformation, and iterative quality assurance. AI output was not treated as literary or psychological authority; quotations and substantive source claims were checked against the works cited below. GitHub version control tracked verified evidence, claim dependencies, revisions, terminology controls, semantic-drift checks, and horizontal and vertical coherence testing. The workflow was designed to reduce hallucination risk and preserve source fidelity, citation integrity, and argument consistency across English, Spanish, and Mandarin outputs (“Source-Grounded Research”).
 
 **Workflow:** requirements -> source verification -> evidence and claim mapping -> drafting -> coherence testing -> controlled translation -> semantic back-check -> final release.
 
@@ -106,4 +106,4 @@ Freud, Sigmund. *Beyond the Pleasure Principle*. Translated by C. J. M. Hubback,
 
 ---. *Civilization and Its Discontents*. Translated by Joan Riviere, Jonathan Cape and Harrison Smith, 1930. *Project Gutenberg*, eBook no. 78221, https://www.gutenberg.org/ebooks/78221. Accessed 20 Sept. 2026.
 
-“Source-grounded drafting, translation, and quality-assurance assistance for a trilingual analysis of metaphors in *The Great Gatsby*” prompt and follow-up conversation. *ChatGPT*, model GPT-5.6 Sol, OpenAI, 20 Sept. 2026, https://chatgpt.com/.
+“Source-Grounded Research, Drafting, Translation, and Quality-Assurance Assistance for a Trilingual Analysis of Metaphors in *The Great Gatsby*.” *ChatGPT*, GPT-5.6 Sol, OpenAI, 20 Sept. 2026, https://chatgpt.com/.
