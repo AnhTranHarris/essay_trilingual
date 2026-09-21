@@ -52,7 +52,7 @@ Every quoted Fitzgerald passage must have:
 
 When the project translates Fitzgerald's own words, do not imply that the wording comes from a published Spanish or Chinese translator.
 
-Where MLA conventions require it, identify the rendering as the authors' or project translation.
+Where MLA conventions require it, identify the rendering as a project translation approved by the human author and produced with ChatGPT assistance.
 
 ## Controlled translation protocol
 
@@ -119,10 +119,10 @@ Use it to maintain:
 - correction history;
 - final verification states.
 
-GitHub is not a literary source and is not an author. It documents how the two authors controlled quality.
+GitHub is not a literary source and is not an author. It documents how the human author and AI-assisted workflow controlled quality.
 
 ## Current state
 
-The English essay is frozen for translation. Spanish translation quality is locked to the Mexico City international standard defined in `methodology/spanish_translation_style_guide.md`.
+The English, Mexico City / international Spanish, and Beijing / Mainland Mandarin/Simplified-Chinese versions are frozen in their AI-disclosed MLA submission form.
 
-Spanish is frozen. Mandarin/Simplified-Chinese translation may proceed only under the Beijing/Mainland native-flow standard, paragraph-level semantic QA, back-translation review, literary-device verification, and full-document vertical coherence review.
+Any material English change requires reopening the corresponding translated paragraph and repeating semantic, citation, literary-device, and vertical-coherence QA.
