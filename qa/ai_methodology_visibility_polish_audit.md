@@ -1,8 +1,8 @@
-# AI Methodology Visibility Polish Audit
+# AI Methodology Visibility and MLA Revision Audit
 
 ## Status
 
-**PASS - TRILINGUAL FRONT-MATTER POLISH COMPLETE**
+**PASS - TRILINGUAL AI-DISCLOSURE / MLA POLISH COMPLETE**
 
 Updated canonical files:
 - `essay/english/final_english.md`
@@ -11,11 +11,23 @@ Updated canonical files:
 
 ## Purpose
 
-The title/front-matter language was revised so that the supplemental assignment visibly demonstrates a controlled, human-in-the-loop AI workflow without altering the literary argument or making unsupported claims about professional AI experience.
+The submission package was revised so the supplemental assignment visibly demonstrates a controlled, human-in-the-loop AI workflow while preserving the literary argument and avoiding unsupported claims about professional AI experience.
 
-## Added methodology signal
+## MLA authorship correction
 
-All three versions now identify, in their appropriate language/register:
+PASS.
+
+Current MLA Style Center guidance recommends **not** treating a generative-AI tool as an author.
+
+The final package therefore identifies:
+- **Author:** Anh T Tran (Harris)
+- **AI assistant:** ChatGPT (GPT-5.6 Sol)
+
+ChatGPT's substantive role is disclosed in front matter and documented through an MLA-style Works Cited entry rather than being listed as a coauthor.
+
+## AI-methodology signal
+
+All three versions now identify:
 - artificial intelligence (AI);
 - human-in-the-loop review;
 - source-grounded research;
@@ -28,60 +40,84 @@ All three versions now identify, in their appropriate language/register:
 - semantic-drift checks;
 - horizontal and vertical coherence testing;
 - hallucination-risk reduction;
-- frozen release states.
+- final release control.
 
-Each version also exposes the project repository:
+Repository:
 - https://github.com/AnhTranHarris/essay_trilingual
 
-## Workflow line
+## Workflow trace
 
-The front matter now states the actual project sequence:
+The front matter records the actual project sequence:
 
-canonical English source
--> evidence verification
--> claim mapping
--> iterative drafting
--> horizontal/vertical consistency testing
--> Spanish/Mandarin translation
--> semantic QA
--> frozen releases.
+requirements
+-> source verification
+-> evidence and claim mapping
+-> drafting
+-> coherence testing
+-> controlled translation
+-> semantic back-check
+-> final release.
+
+## MLA citation polish
+
+PASS.
+
+Changes:
+- ChatGPT added to the source list using a descriptive source title, `ChatGPT` as container, GPT-5.6 Sol model/version, OpenAI, date, and available general URL.
+- repeated Freud authorship uses `---.` on the second entry;
+- Freud parenthetical citations were simplified where author/title are already named in prose;
+- section numbers were removed from analytical headings;
+- Works Cited / Obras citadas / 参考文献 remain on separate pages with hanging indents;
+- Fitzgerald page citations remain tied to the verified 1925 English edition.
+
+## Project-translation disclosure
+
+PASS.
+
+Spanish and Mandarin front matter now makes clear that translated quotations are project translations from the cited English editions, approved by Anh T Tran (Harris) with ChatGPT assistance.
+
+No published Spanish or Chinese translation is implied.
 
 ## Truthfulness / qualification guardrail
 
 The polish does **not** claim:
 - one year of GS-11-equivalent AI specialized experience;
-- AI model development;
+- AI-model development;
 - production AI deployment;
 - cloud AI engineering;
-- experience the project did not actually establish.
+- experience the project did not establish.
 
-The added language describes the documented workflow only.
+The language describes only the documented workflow.
 
 ## Literary-content integrity
 
 PASS.
 
-The analytical body, seven-metaphor structure, citations, psychology-source boundaries, and conclusions were not changed by this polish.
+The governing thesis, seven-metaphor structure, Fitzgerald evidence, psychology-source boundaries, intentional tensions, and conclusion were preserved.
 
 ## Translation integrity
 
 PASS.
 
-The new methodology section was translated under the already locked standards:
-- Mexico City / international-quality Spanish;
-- Beijing / Mainland Standard Mandarin written Chinese in Simplified Chinese.
+The methodology and citation changes were carried through under the locked translation standards:
+- formal, educated Mexico City / international Latin American Spanish;
+- educated Beijing / Mainland Standard Mandarin written Chinese in Simplified Chinese.
 
-Both translations preserve the English division of labor:
-- Anh T Tran (Harris): objectives, constraints, acceptance criteria, translation standards, final approvals;
-- ChatGPT: source-grounded research assistance, drafting assistance, multilingual transformation, iterative QA assistance.
-
-## Render verification
+## Final render verification
 
 PASS.
 
-Final polished package page counts:
-- English: 12 total pages;
-- Spanish: 13 total pages;
-- Mandarin/Simplified Chinese: 12 total pages.
+Final page counts:
+- English: 12 total pages = 1 application front-matter page + 10 analytical pages + 1 Works Cited page;
+- Spanish: 13 total pages = 1 application front-matter page + 11 analytical pages + 1 Obras citadas page;
+- Mandarin/Simplified Chinese: 12 total pages = 1 application front-matter page + 10 analytical pages + 1 参考文献 page.
 
-All pages were rendered and visually reviewed. No clipping, overlap, missing glyphs, broken page numbers, or title-page overflow was found.
+Every rendered page was visually inspected after the final edit batch.
+
+No clipping, overlap, missing Chinese glyphs, broken page numbers, header/footer collisions, or front-page overflow was found.
+
+## Freeze state
+
+**APPROVED - AI-DISCLOSED MLA SUBMISSION VERSIONS FROZEN.**
+
+Any material literary-content change now requires reopening the English source paragraph and repeating downstream Spanish/Mandarin semantic QA.
