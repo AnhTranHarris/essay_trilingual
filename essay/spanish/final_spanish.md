@@ -96,7 +96,7 @@ En conjunto, estas imágenes explican por qué Gatsby puede parecer admirable e 
 
 Los límites impuestos a las fuentes psicológicas refuerzan la conclusión. Freud aporta un vocabulario histórico para la repetición y el deseo; SAMHSA muestra cómo el éxito masculino y la autosuficiencia pueden convertirse en expectativas sociales. Ninguna fuente explica por sí sola a Gatsby. Su valor es comparativo: ayudan a nombrar presiones que Fitzgerald ya hace visibles mediante la metáfora. Mantener separadas esas funciones preserva la ambigüedad: Gatsby puede ser esperanzado y autoengañado, disciplinado y artificial, orientado al futuro y atrapado por la memoria. Una metáfora literaria puede sostener esas tensiones sin reducirlas a una sola etiqueta clínica.
 
-El requisito de traducción vuelve crucial esta precisión. Al traducirse al español y al mandarín, las palabras pueden cambiar, pero no estas relaciones: fundamento/inestabilidad, movimiento/residuo, crecimiento/desperdicio, yo/ideal, amor/clase social, presente/pasado recuperable y esfuerzo/corriente. Conservarlas preserva la lógica del análisis entre idiomas.
+El requisito de traducción vuelve crucial esta precisión. Al traducirse, las palabras pueden cambiar, pero no las relaciones entre fundamento/inestabilidad, movimiento/residuo, crecimiento/desperdicio, yo/ideal, amor/clase social, presente/pasado recuperable y esfuerzo/corriente.
 
 ## Obras citadas
 
