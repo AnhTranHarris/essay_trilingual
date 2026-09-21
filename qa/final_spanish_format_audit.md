@@ -14,13 +14,13 @@ Target language standard:
 - no Mexican slang or narrow regionalisms.
 
 Generated application documents:
-- `Gatsby_Analysis_MLA_Spanish_MX_FINAL.docx`
-- `Gatsby_Analysis_MLA_Spanish_MX_FINAL.pdf`
+- `Gatsby_Analysis_MLA_Spanish_MX_AI_POLISHED.docx`
+- `Gatsby_Analysis_MLA_Spanish_MX_AI_POLISHED.pdf`
 
 ## Rendered layout
 
 Final rendered length:
-- title page: 1 unnumbered page;
+- application-specific AI methodology front matter: 1 unnumbered page;
 - analytical Spanish body: 11 numbered pages;
 - Obras citadas: separate final page;
 - total: 13 pages.
@@ -35,7 +35,7 @@ Formatting:
 - left-aligned body text;
 - hanging indents on Obras citadas;
 - running head begins with `Tran 1` on the first analytical page;
-- title page remains unnumbered.
+- front-matter page remains unnumbered.
 
 ## Visual QA
 
@@ -91,7 +91,7 @@ PASS.
 
 - Fitzgerald citations refer to the verified 1925 English edition.
 - Freud citations refer to the cited English editions.
-- The Spanish title page states that Spanish renderings of Fitzgerald and Freud quotations are project/authors' translations unless otherwise indicated.
+- The Spanish front matter states that Spanish renderings of Fitzgerald and Freud quotations are project translations approved by Anh T Tran (Harris) with ChatGPT assistance unless otherwise indicated.
 - No published Spanish translation of *The Great Gatsby* is implied.
 
 ## Vertical coherence
