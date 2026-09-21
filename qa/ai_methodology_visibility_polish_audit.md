@@ -74,7 +74,11 @@ Changes:
 
 PASS.
 
-Spanish and Mandarin front matter now makes clear that translated quotations are project translations from the cited English editions, approved by Anh T Tran (Harris) with ChatGPT assistance.
+Spanish and Mandarin front matter makes clear that translated quotations are project translations from the cited English editions, approved by Anh T Tran (Harris) with ChatGPT assistance.
+
+For additional citation clarity, translated direct quotations are also marked at point of citation:
+- Spanish: `traducción del proyecto`;
+- Mandarin/Simplified Chinese: `本文译`.
 
 No published Spanish or Chinese translation is implied.
 
@@ -112,7 +116,7 @@ Final page counts:
 - Spanish: 13 total pages = 1 application front-matter page + 11 analytical pages + 1 Obras citadas page;
 - Mandarin/Simplified Chinese: 12 total pages = 1 application front-matter page + 10 analytical pages + 1 参考文献 page.
 
-Every rendered page was visually inspected after the final edit batch.
+Every rendered page was visually inspected after the final layout edit batch. The Spanish conclusion was then compressed without changing its analytical claim to eliminate a two-line orphan page; the Spanish DOCX was re-rendered and all 13 final pages were inspected again.
 
 No clipping, overlap, missing Chinese glyphs, broken page numbers, header/footer collisions, or front-page overflow was found.
 
