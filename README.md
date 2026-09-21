@@ -19,20 +19,23 @@ https://www.usajobs.gov/job/858700600
 
 ## Authorship and project provenance
 
-Planned authorship:
+Final authorship:
 
-**Anh T Tran (Harris)**  
-**ChatGPT**
+**Anh T Tran (Harris)**
 
-The project will also disclose that GitHub was used as the quality-assurance and provenance environment for:
-- verification of quotations and citations against the English novel;
-- evidence-ledger control;
+ChatGPT (GPT-5.6 Sol) is disclosed as the AI research, drafting, translation, and QA assistant, **not as an author**, consistent with current MLA guidance. Its substantive use is described in the application-specific front matter and documented in each language version's source list.
+
+GitHub is the quality-assurance and provenance environment supporting:
+- verified quotations and citations;
+- evidence and claim ledgers;
 - version history;
-- paragraph alignment across English, Spanish, and Mandarin/Simplified-Chinese versions;
-- terminology consistency;
-- translation QA and semantic-drift checks.
+- terminology controls;
+- semantic-drift checks;
+- horizontal and vertical coherence testing;
+- translation QA;
+- final release states.
 
-GitHub is not listed as an author. It is the version-control and quality-assurance system supporting the human-AI collaboration.
+Repository: https://github.com/AnhTranHarris/essay_trilingual
 
 ## Locked literary source model
 
@@ -103,4 +106,4 @@ English source verification -> metaphor candidate extraction -> evidence ledger 
 
 **Mandarin freeze status:** PASS. The canonical Mandarin/Simplified-Chinese translation is `essay/mandarin/final_mandarin.md`, with semantic and language verification recorded in `qa/mandarin_translation_v0_3_audit.md` and final render verification recorded in `qa/final_mandarin_format_audit.md`.
 
-**AI methodology visibility polish:** PASS. All three final versions now include a concise human-in-the-loop AI methodology/validation statement, workflow trace, and repository link. Verification is recorded in `qa/ai_methodology_visibility_polish_audit.md`.
+**MLA + AI methodology polish:** PASS. All three final versions now identify Anh T Tran (Harris) as the human author, disclose ChatGPT (GPT-5.6 Sol) as the AI assistant rather than coauthor, include the human-in-the-loop methodology/workflow and repository link, use an MLA-style ChatGPT Works Cited entry, and preserve target-language translation QA. Verification is recorded in `qa/ai_methodology_visibility_polish_audit.md`.
