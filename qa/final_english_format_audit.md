@@ -8,13 +8,13 @@ Canonical text:
 - `essay/english/final_english.md`
 
 Generated application documents:
-- `Gatsby_Analysis_MLA_English_FINAL.docx`
-- `Gatsby_Analysis_MLA_English_FINAL.pdf`
+- `Gatsby_Analysis_MLA_English_AI_POLISHED.docx`
+- `Gatsby_Analysis_MLA_English_AI_POLISHED.pdf`
 
 ## MLA / layout verification
 
 Verified rendered layout:
-- title page: 1 page, unnumbered;
+- application-specific AI methodology front matter: 1 page, unnumbered;
 - analytical body: exactly 10 numbered pages;
 - Works Cited: separate page after the 10-page analytical body;
 - total document length: 12 pages.
@@ -27,7 +27,7 @@ Formatting:
 - left-aligned body text;
 - MLA-style hanging indents on Works Cited;
 - running head begins with `Tran 1` on the first analytical page;
-- title page is not counted as essay page 1;
+- front-matter page is not counted as essay page 1;
 - Works Cited begins after analytical page 10.
 
 Approximate analytical-body word count: **2,678 words**.
@@ -98,12 +98,10 @@ PASS.
 - the "past lurking" passage is handled as spatial metaphor with personification;
 - psychology is not used as clinical diagnosis.
 
-## Translation gate
+## Final AI-disclosed MLA state
 
-The English version is now the canonical source for Spanish and Mandarin/Simplified-Chinese translation.
+The English version remains the canonical source for Spanish and Mandarin/Simplified-Chinese translation.
 
-Any material change to the English argument after this point requires:
-1. reopening the affected English paragraph;
-2. updating claim/evidence dependencies if necessary;
-3. re-translating the corresponding Spanish and Mandarin paragraphs;
-4. repeating semantic and vertical coherence QA.
+The current submission version identifies Anh T Tran (Harris) as author, discloses ChatGPT as AI assistant rather than coauthor, includes an MLA-style AI Works Cited entry, and has passed final render QA.
+
+Any material change requires reopening downstream translation and semantic QA.
