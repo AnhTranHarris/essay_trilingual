@@ -2,73 +2,61 @@
 
 ## Status
 
-**PASS — ENGLISH VERSION FROZEN FOR TRANSLATION**
+**PASS - STRICT MLA / AI-DISCLOSED ENGLISH VERSION FROZEN**
 
 Canonical text:
 - `essay/english/final_english.md`
 
-Generated application documents:
-- `Gatsby_Analysis_MLA_English_AI_POLISHED.docx`
-- `Gatsby_Analysis_MLA_English_AI_POLISHED.pdf`
+Application deliverables:
+- `Gatsby_Analysis_MLA_English_AI_FINAL.docx`
+- `Gatsby_Analysis_MLA_English_AI_FINAL.pdf`
 
-## MLA / layout verification
+## Final MLA structure
 
-Verified rendered layout:
-- application-specific AI methodology front matter: 1 page, unnumbered;
-- analytical body: exactly 10 numbered pages;
-- Works Cited: separate page after the 10-page analytical body;
-- total document length: 12 pages.
+Rendered length: **12 pages total**.
+
+- page 1: MLA-style application heading, centered paper title, and AI-Assisted Methodology and Validation;
+- pages 2-11: exactly **10 analytical pages**;
+- page 12: Works Cited.
 
 Formatting:
-- Arial 12-point body text;
+- 8.5 x 11 inch pages;
 - 1-inch margins;
+- Arial 12 point;
 - double spacing;
-- 0.5-inch first-line paragraph indent;
-- left-aligned body text;
-- MLA-style hanging indents on Works Cited;
-- running head begins with `Tran 1` on the first analytical page;
-- front-matter page is not counted as essay page 1;
-- Works Cited begins after analytical page 10.
+- left-aligned body;
+- 0.5-inch first-line paragraph indents;
+- running head `Tran 1` beginning on the first page;
+- consistent flush-left section headings;
+- separate Works Cited page with hanging indents.
 
-Approximate analytical-body word count: **2,678 words**.
+The paper does not use a separate MLA title page. The first page is adapted for the USAJOBS supplemental application while retaining MLA research-paper conventions.
 
-Visual render review:
-- all 12 pages inspected;
-- no clipped text;
-- no overlapping text;
-- no missing glyphs;
-- no broken page numbering;
-- no orphaned heading defects requiring correction.
-
-## Source verification
-
-All seven Fitzgerald metaphor anchors remain tied to approved entries in:
-- `evidence/metaphor_ledger.md`
-
-The seven anchor citations use printed page numbers from the 1925 Charles Scribner's Sons edition.
-
-Secondary lenses remain limited to:
-- Sigmund Freud, *Beyond the Pleasure Principle*;
-- Sigmund Freud, *Civilization and Its Discontents*;
-- SAMHSA / Center for Substance Abuse Treatment, *Addressing the Specific Behavioral Health Needs of Men*.
-
-Psychological sources remain interpretive comparisons and do not replace Fitzgerald as the literary authority.
-
-## Horizontal coherence
+## AI disclosure / citation
 
 PASS.
 
-Each section has:
-- a clear controlling claim;
-- verified textual evidence;
-- interpretation tied to that evidence;
-- a transition or conceptual dependency into the next stage of the argument.
+- Anh T Tran (Harris) is the human author.
+- ChatGPT (GPT-5.6 Sol) is disclosed as an AI research, drafting, translation, and QA assistant rather than a coauthor.
+- the methodology states that AI output was not treated as literary or psychological authority;
+- source-dependent claims and quotations were checked against the works cited;
+- GitHub provenance and the human-in-the-loop workflow are visible on page 1;
+- substantive AI assistance is represented by an MLA-style source-list entry and keyed in-text reference.
 
-## Vertical coherence
+## Citation integrity
 
 PASS.
 
-The complete argument remains:
+- all seven Fitzgerald anchor quotations retain verified 1925 page numbers;
+- Freud citations retain the English editions actually used;
+- SAMHSA remains a secondary interpretive source;
+- Works Cited contains only sources substantively incorporated into the final paper plus the disclosed AI-assistance record.
+
+## Literary / coherence QA
+
+PASS.
+
+The seven-part progression remains stable:
 
 moral foundation
 -> aspiration and contamination
@@ -78,30 +66,16 @@ moral foundation
 -> attempted recovery of the past
 -> human movement against time.
 
-The conclusion returns to and synthesizes the governing thesis.
+No new literary claim was added during the AI-visibility polish.
 
-## Intentional tensions
-
-PASS — explicitly explained rather than silently contradicted.
-
-- Nick: tolerance versus judgment.
-- Gatsby: self-invention versus restoration.
-- Gatsby: admirable imaginative intensity versus morally compromised methods.
-- Final metaphor: forward effort versus backward force.
-
-## Literary-device precision
+## Visual QA
 
 PASS.
 
-- the green light remains supporting symbolism rather than one of the seven strict metaphor anchors;
-- the Valley of Ashes section distinguishes the extended farm metaphor from the embedded simile;
-- the "past lurking" passage is handled as spatial metaphor with personification;
-- psychology is not used as clinical diagnosis.
+All 12 rendered pages were inspected after final formatting.
 
-## Final AI-disclosed MLA state
+No clipping, overlap, broken page numbering, header/footer collisions, missing glyphs, or Works Cited layout defects were found.
 
-The English version remains the canonical source for Spanish and Mandarin/Simplified-Chinese translation.
+## Freeze rule
 
-The current submission version identifies Anh T Tran (Harris) as author, discloses ChatGPT as AI assistant rather than coauthor, includes an MLA-style AI Works Cited entry, and has passed final render QA.
-
-Any material change requires reopening downstream translation and semantic QA.
+Any material English-content change requires reopening downstream Spanish and Mandarin semantic QA.
