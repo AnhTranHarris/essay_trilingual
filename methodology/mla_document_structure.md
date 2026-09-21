@@ -82,9 +82,11 @@ The final package follows current MLA Style Center guidance:
 
 The Spanish and Mandarin versions translate quoted Fitzgerald/Freud material from the cited English editions.
 
-Their front-matter translation notes explicitly disclose that the translated quotations are project translations produced with ChatGPT assistance and approved by Anh T Tran (Harris). Because the prose makes the translation provenance clear, the project does not repeat a translation marker after every quotation.
+Their front-matter translation notes explicitly disclose that the translated quotations are project translations produced with ChatGPT assistance and approved by Anh T Tran (Harris). For maximum citation clarity, the final translated essays also mark translated direct quotations in the parenthetical citation:
+- Spanish: `traducción del proyecto`
+- Mandarin/Simplified Chinese: `本文译`
 
-The original English-edition page references are retained.
+The original English-edition page references are retained so each translated quotation still maps to the verified English source actually used.
 
 ## Final application structure
 
