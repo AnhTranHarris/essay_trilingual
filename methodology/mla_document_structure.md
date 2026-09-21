@@ -12,7 +12,7 @@ The USAJOBS announcement requires an analysis of metaphors in *The Great Gatsby*
 
 ## Application-specific front matter
 
-MLA papers ordinarily do not require a separate title page. This project nevertheless uses a separate **application-specific front-matter page** because the supplemental assignment also functions as evidence of a controlled human-AI workflow.
+MLA papers ordinarily do not require a separate title page. This project therefore uses the **first MLA-formatted page as application-specific front matter** because the supplemental assignment also functions as evidence of a controlled human-AI workflow.
 
 The front page contains:
 - paper title;
@@ -24,7 +24,7 @@ The front page contains:
 - GitHub repository link;
 - translation disclosure where applicable.
 
-This front page is intentionally treated as application documentation rather than part of the 10-page analytical body.
+This first page is intentionally treated as application documentation rather than part of the 10-page analytical-body target.
 
 ChatGPT is not listed as an author. Its substantive role is acknowledged in the methodology statement and cited in the Works Cited list.
 
