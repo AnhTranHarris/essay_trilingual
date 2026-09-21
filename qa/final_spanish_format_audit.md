@@ -2,120 +2,83 @@
 
 ## Status
 
-**PASS - SPANISH VERSION FROZEN**
+**PASS - STRICT MLA / MEXICO CITY-QUALITY SPANISH VERSION FROZEN**
 
-Canonical Spanish text:
+Canonical text:
 - `essay/spanish/final_spanish.md`
 
-Target language standard:
-- formal, educated Mexico City / standard Mexican Spanish;
-- international Latin American readability;
-- no Spain-specific `vosotros`;
-- no Mexican slang or narrow regionalisms.
+Application deliverables:
+- `Gatsby_Analysis_MLA_Spanish_MX_AI_FINAL.docx`
+- `Gatsby_Analysis_MLA_Spanish_MX_AI_FINAL.pdf`
 
-Generated application documents:
-- `Gatsby_Analysis_MLA_Spanish_MX_AI_POLISHED.docx`
-- `Gatsby_Analysis_MLA_Spanish_MX_AI_POLISHED.pdf`
+## Language target
 
-## Rendered layout
+PASS.
 
-Final rendered length:
-- application-specific AI methodology front matter: 1 unnumbered page;
-- analytical Spanish body: 11 numbered pages;
-- Obras citadas: separate final page;
-- total: 13 pages.
+The translation uses formal, educated Mexico City / standard Mexican Spanish with broad Latin American readability.
 
-The Spanish body is one page longer than the 10-page English analytical body because Spanish naturally expands several English constructions. No argument was padded to reach a page target and no meaning was cut merely to force the translation back to ten pages.
+It avoids:
+- `vosotros`;
+- Spain-specific colloquialisms;
+- Mexican slang;
+- narrow regionalisms;
+- English syntactic calques;
+- bureaucratic or machine-translated phrasing.
+
+## Final MLA structure
+
+Rendered length: **13 pages total**.
+
+- page 1: MLA-style application heading, centered title, AI methodology, workflow, repository link, and translation disclosure;
+- pages 2-12: **11 analytical pages**;
+- page 13: Obras citadas.
 
 Formatting:
-- Arial 12 point;
+- 8.5 x 11 inch pages;
 - 1-inch margins;
+- Arial 12 point;
 - double spacing;
-- 0.5-inch first-line paragraph indent;
-- left-aligned body text;
-- hanging indents on Obras citadas;
-- running head begins with `Tran 1` on the first analytical page;
-- front-matter page remains unnumbered.
+- 0.5-inch first-line paragraph indents;
+- running head beginning with `Tran 1`;
+- flush-left analytical headings;
+- separate Obras citadas page with hanging indents.
+
+The additional analytical page relative to English results from natural Spanish expansion; content was not padded.
+
+## AI / translation disclosure
+
+PASS.
+
+- Anh T Tran (Harris) remains the human author;
+- ChatGPT (GPT-5.6 Sol) is disclosed as AI assistant, not coauthor;
+- AI output is not presented as literary or psychological authority;
+- project translations are disclosed in the front matter;
+- translated direct quotations are additionally marked `traducción del proyecto` in parenthetical citations;
+- cited page numbers continue to refer to the verified English editions.
+
+## Semantic and vertical QA
+
+PASS.
+
+The Spanish preserves the English:
+- thesis;
+- seven-metaphor sequence;
+- literary-device classifications;
+- degrees of certainty;
+- psychology-source boundaries;
+- intentional tensions;
+- conclusion.
+
+The final conclusion was compressed without altering its analytical claim solely to remove a two-line orphan page.
 
 ## Visual QA
 
 PASS.
 
-All pages were rendered and inspected.
+After that final pagination edit, the DOCX was re-rendered and **all 13 final pages were inspected again**.
 
-Verified:
-- no clipped text;
-- no overlaps;
-- no missing accented glyphs;
-- no broken italics;
-- no header/footer collisions;
-- page numbering is continuous;
-- Obras citadas begins on its own page;
-- no accidental blank page remains.
+No clipping, overlap, missing accents/glyphs, broken page numbers, header/footer collisions, or source-list defects were found.
 
-A prior render produced an unnecessary blank page before Obras citadas. The page-break logic was corrected and the final render contains 13 pages with no blank-page defect.
+## Freeze rule
 
-## Mexico City / international Spanish QA
-
-PASS.
-
-The final Spanish reads as formal Mexican academic Spanish without becoming locally colloquial.
-
-Controlled corrections made during QA included:
-- replacing an overly idiomatic rendering of `turned out all right`;
-- replacing the calque `desempeño social` with a more natural phrase;
-- replacing `su riqueza es de reciente construcción` with `su fortuna es reciente`;
-- standardizing Freud's term as `compulsión a la repetición`;
-- removing the calque `pertenece cerca de esta imagen`;
-- tightening the final psychology paragraph without changing its claim.
-
-## Semantic equivalence
-
-PASS.
-
-The Spanish version preserves the English:
-- thesis;
-- seven-metaphor architecture;
-- Fitzgerald evidence;
-- literary-device classifications;
-- degrees of certainty;
-- psychology-source limitations;
-- intentional contradictions/tensions;
-- conclusion.
-
-No new literary argument was introduced.
-
-## Citation integrity
-
-PASS.
-
-- Fitzgerald citations refer to the verified 1925 English edition.
-- Freud citations refer to the cited English editions.
-- The Spanish front matter states that Spanish renderings of Fitzgerald and Freud quotations are project translations approved by Anh T Tran (Harris) with ChatGPT assistance unless otherwise indicated.
-- No published Spanish translation of *The Great Gatsby* is implied.
-
-## Vertical coherence
-
-PASS.
-
-The full Spanish paper preserves:
-
-fundamento moral
--> aspiración y contaminación
--> desperdicio social
--> autoinvención
--> deseo y clase social
--> intento de recuperar el pasado
--> movimiento humano contra el tiempo.
-
-Intentional tensions remain explicit rather than accidental:
-- tolerancia vs. juicio;
-- autoinvención vs. restauración;
-- esperanza vs. métodos moralmente comprometidos;
-- avance vs. fuerza del pasado.
-
-## Translation freeze rule
-
-The Spanish version is now frozen.
-
-Any material change to the English canonical essay requires reopening the corresponding Spanish paragraph and repeating semantic and vertical-coherence QA.
+Any material change to the English canonical text requires reopening the corresponding Spanish passage and repeating semantic and vertical-coherence QA.
