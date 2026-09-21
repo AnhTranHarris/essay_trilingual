@@ -2,91 +2,95 @@
 
 ## Status
 
-**FOUNDATION ONLY. This file defines document architecture; it contains no essay draft.**
+**LOCKED FOR FINAL AI-DISCLOSED SUBMISSION PACKAGE**
 
 ## Governing style
 
-Use MLA 9th edition conventions unless the USAJOBS application supplies a conflicting requirement.
+Use MLA 9th edition conventions for the analytical paper and source documentation unless the USAJOBS application supplies a conflicting requirement.
 
-The USAJOBS announcement requires an analysis of metaphors in *The Great Gatsby*, including citations, and states that the recommended length is 10 pages. It does not specify whether a title page or Works Cited page counts toward that recommendation.
+The USAJOBS announcement requires an analysis of metaphors in *The Great Gatsby*, including citations, and recommends a length of 10 pages. It does not define whether front matter or Works Cited counts toward that recommendation.
 
-## Title page
+## Application-specific front matter
 
-MLA research papers do not normally require a separate title page. However, MLA guidance specifically recommends a title page for a group project so that all authors can be listed there.
+MLA papers ordinarily do not require a separate title page. This project nevertheless uses a separate **application-specific front-matter page** because the supplemental assignment also functions as evidence of a controlled human-AI workflow.
 
-Because this project identifies two authors:
+The front page contains:
+- paper title;
+- human author: Anh T Tran (Harris);
+- USAJOBS job identifier;
+- date;
+- concise AI-Assisted Methodology and Validation statement;
+- workflow trace;
+- GitHub repository link;
+- translation disclosure where applicable.
 
-**Anh T Tran (Harris)**  
-**ChatGPT**
+This front page is intentionally treated as application documentation rather than part of the 10-page analytical body.
 
-the final English paper will use a separate title page.
+ChatGPT is not listed as an author. Its substantive role is acknowledged in the methodology statement and cited in the Works Cited list.
 
-The title page will also contain a concise project/process note only if needed to disclose the human-AI collaboration and GitHub QA method without cluttering the literary analysis.
+## Analytical-body format
 
-The title page is separate from the analytical body.
+The analytical body uses:
+- 8.5 x 11 inch pages;
+- 1-inch margins;
+- readable 12-point type;
+- double spacing;
+- left alignment;
+- 0.5-inch first-line paragraph indentation;
+- running surname/page-number header beginning with `Tran 1`;
+- MLA parenthetical citations;
+- consistent flush-left headings.
 
-## Recommended page-count policy
+Internal section headings are not numbered because MLA generally recommends avoiding numbers/letters for headings unless disciplinary convention calls for them.
 
-For this project, interpret Treasury's "recommended length is 10 pages" conservatively as approximately **10 pages of analytical body text**.
+## Page-count policy
 
-Do not rely on the title page or Works Cited page to satisfy the recommended 10-page length.
+For this project, interpret Treasury's “recommended length of 10 pages” conservatively as approximately **10 pages of analytical body text**.
 
-Target structure:
+Current final render:
+- English: 1 front-matter page + exactly 10 analytical pages + 1 Works Cited page;
+- Spanish: 1 front-matter page + 11 analytical pages + 1 Obras citadas page;
+- Mandarin/Simplified Chinese: 1 front-matter page + exactly 10 analytical pages + 1 参考文献 page.
 
-1. Title page — separate; not counted toward the 10-page analytical target.
-2. Approximately 10 pages of English analytical prose.
-3. Works Cited — separate final page(s); not counted toward the 10-page analytical target.
+The Spanish expansion is accepted because translation fidelity and natural target-language prose take priority over forcing identical page counts.
 
-This is a project policy rather than an explicit Treasury rule, because the announcement does not define how the 10-page recommendation is counted.
+## Works Cited / translated equivalents
 
-## Works Cited
+The source list begins on a separate page after the analytical body.
 
-A Works Cited section is required because the paper quotes and cites Fitzgerald's novel and may cite any authorized methodological or critical sources added later.
+Only sources actually cited or substantively incorporated belong in the list.
 
-The Works Cited begins on a separate page after the essay body.
+The final lists include:
+- Fitzgerald's verified 1925 English edition;
+- the SAMHSA source;
+- the two Freud editions actually used;
+- an MLA-style entry describing the substantive ChatGPT-assisted drafting/translation/QA conversation.
 
-Only sources actually cited or substantively used in the paper belong in Works Cited. Research consulted but not cited should not be added merely to make the bibliography look larger.
+When two works by Freud appear, the repeated-author form `---.` is used for the second entry.
 
-The current literary source is the verified 1925 English edition. If no outside literary criticism is ultimately used, the Works Cited list may remain short.
+Spanish source-list labels are localized to the language of the Spanish paper. Mandarin explanatory labels are localized while preserving bibliographic identity of the English sources.
 
-## Page numbering
+## AI citation and acknowledgment
 
-The analytical essay will use normal MLA running-page numbering.
+The final package follows current MLA Style Center guidance:
+- a generative-AI tool is not treated as an author;
+- substantive/functional AI use is acknowledged;
+- AI-generated or incorporated assistance is documented with an MLA-style Works Cited entry;
+- the entry identifies ChatGPT as the container, specifies GPT-5.6 Sol as the model/version, identifies OpenAI, gives the date, and provides the available general ChatGPT URL.
 
-Because the project uses a separate title page, treat the first page of the essay body as page 1.
+## Project translations of quotations
 
-## Headings
+The Spanish and Mandarin versions translate quoted Fitzgerald/Freud material from the cited English editions.
 
-Internal headings are optional.
+Their front-matter translation notes explicitly disclose that the translated quotations are project translations produced with ChatGPT assistance and approved by Anh T Tran (Harris). Because the prose makes the translation provenance clear, the project does not repeat a translation marker after every quotation.
 
-For a paper of approximately 10 pages, use headings only when they genuinely improve navigation or clarify major analytical movements. Do not create headings merely to make the paper appear longer or more technical.
-
-If headings are used:
-- keep them concise;
-- use consistent hierarchy;
-- avoid excessive levels;
-- preserve natural essay flow.
-
-## Translation package
-
-The English essay is the canonical paper.
-
-The Spanish and Mandarin/Simplified-Chinese versions should preserve the same:
-- title;
-- authorship;
-- analytical structure;
-- paragraph sequence;
-- citation relationships;
-- Works Cited source identity.
-
-Translated versions may adapt ordinary prose and explanatory labels naturally to the target language, but bibliographic facts must not change.
+The original English-edition page references are retained.
 
 ## Final application structure
 
-Unless USAJOBS imposes a different upload constraint, prepare the final materials so that a reviewer can clearly distinguish:
+The final application package contains three clearly differentiated documents:
+- English canonical analysis;
+- Mexico City / international-quality Spanish translation;
+- Beijing / Mainland-quality Mandarin/Simplified-Chinese translation.
 
-- English original;
-- Spanish translation;
-- Mandarin/Simplified-Chinese translation.
-
-The English version remains the source-of-truth document for literary analysis and citation verification.
+The English version remains the analytical source of truth for evidence and citation verification.
